@@ -26,10 +26,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Set Up Your Azure Virtual Machines
+- Install Wireshark on the Virtual Machines
+- Configure Network Security Groups (NSGs)
+- Start Wireshark and Capture Traffic
+- Use PowerShell to Generate Network Traffic
 
 <h2>Actions and Observations</h2>
 
